@@ -15,17 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :fire: My Stats :
+### : 🔥 My Statistics :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shrey63&theme=neon&background=000000)](https://git.io/streak-stats)
 
 
-### :fire: Proficiency in : 
+### : 💻  Proficiency in : 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey63&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### : 🎆 Pins
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Shrey63&show_icons=true&theme=neon#gh-dark-mode-only)](https://github.com/Shrey63/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Shrey63&show_icons=true&theme=neon#gh-light-mode-only)](https://github.com/Shrey63/github-readme-stats#gh-light-mode-only)
 
-###😎: 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shrey63&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
