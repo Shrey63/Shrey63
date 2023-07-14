@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shrey63&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shrey63&theme=neon&background=000000)](https://git.io/streak-stats)
 
 
 ### :fire: Proficiency in : 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey63&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Shrey63&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Shrey63/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Shrey63&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Shrey63/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Shrey63&show_icons=true&theme=neon#gh-dark-mode-only)](https://github.com/Shrey63/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Shrey63&show_icons=true&theme=neon#gh-light-mode-only)](https://github.com/Shrey63/github-readme-stats#gh-light-mode-only)
