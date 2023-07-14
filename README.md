@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### :fire: My Stats :
-<--https://github-readme-streak-stats.herokuapp.com/?user=Shrey63-->
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shrey63&theme=dark&background=000000)](https://git.io/streak-stats)
